@@ -1,0 +1,1 @@
+A status website that is easy to read and update and is helpful for those going to and leaving the cape to minimize redundant purchases and extra trips. This is namely a personal project to practice some web dev stuff. 
