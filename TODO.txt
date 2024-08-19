@@ -1,0 +1,5 @@
+
+
+find a good template / css
+get some functional CRUD / REST API going (add and remove foods)
+add other buttons for chores that need to regularly be done
