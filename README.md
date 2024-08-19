@@ -1,12 +1,15 @@
 # CapeCheck
 
 "Check before you go and check before you leave 
+
 That there is nothing missing to bestow
+
 that there is no redundancy to upheave!"
 
 or
 
 "Say "To heck!" with extra jars of sad, unopened Mayonaisse
+
 With CapeCheck we shall set redundancy ablaze!"
 
 ## Description
